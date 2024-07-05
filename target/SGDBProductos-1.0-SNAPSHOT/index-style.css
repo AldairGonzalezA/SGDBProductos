@@ -1,0 +1,49 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+body{
+    margin: 0;
+    background-color: #53736A;
+}
+
+.countainer{
+    display: flex;
+    justify-content: center;
+}
+
+.divinfo{
+    padding: 30px 30px 30px 30px;
+}
+
+.card{
+     margin: 30px;
+}
+
+.col-md {
+    flex: 1 0 0%;
+  }
+  
+  .cuadrados{
+      background-color: #009688;
+      padding: 30px 30px 30px 30px;
+  }
+  
+  .img-fluid{
+      background-color: white;
+       height: 1200px;
+  }
+
+  .countainer{
+      
+  }
+  
+  footer{
+      background-color: #53736A;
+      margin: 0;
+      padding: 0px 0px 0px 0px;
+  }
+  
+  .copyright{
+        background-color:  #53736A;
+  }

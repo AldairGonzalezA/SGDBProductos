@@ -1,0 +1,19 @@
+body{
+    margin: 0;
+    background-color: #C9DFD2;
+
+}
+
+.principalDiv{
+    text-align: center;
+    padding: 30px 30px 30px 30px;
+}
+
+.divTitle{
+    background-color: #8AA497;
+    padding: 30px 30px 30px 30px;
+    text-align: center;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: italic;
+}

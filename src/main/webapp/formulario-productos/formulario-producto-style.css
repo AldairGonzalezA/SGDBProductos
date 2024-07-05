@@ -1,0 +1,15 @@
+/*
+Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
+Click nbfs://nbhost/SystemFileSystem/Templates/JSP_Servlet/CascadeStyleSheet.css to edit this template
+*/
+/* 
+    Created on : 5/07/2024, 17:01:31
+    Author     : informatica
+*/
+.divTitle{
+    padding: 30px 30px 30px 30px;
+    text-align: center;
+    font-family: "Bona Nova SC", serif;
+    font-weight: 400;
+    font-style: italic;
+}
