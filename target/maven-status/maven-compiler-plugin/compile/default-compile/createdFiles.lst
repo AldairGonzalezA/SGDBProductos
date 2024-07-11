@@ -1,1 +1,6 @@
 org\aldairgonzalez\webapp\servlet\ProductoServlet.class
+org\aldairgonzalez\webapp\model\Producto.class
+org\aldairgonzalez\webapp\service\IProductoService.class
+TestJPA.class
+org\aldairgonzalez\webapp\service\ProductoService.class
+org\aldairgonzalez\webapp\util\JPAUtil.class
