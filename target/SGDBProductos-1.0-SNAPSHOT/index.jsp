@@ -29,7 +29,7 @@
                                 <a class="nav-link" aria-current="page" href="./formulario-productos/formulario-productos.jsp">Formulario de Productos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link" aria-current="page" href="./lista-productos/lista-productos.jsp">Lista de Productos</a>
+                                <a class="nav-link" aria-current="page" href="./producto-servlet">Lista de Productos</a>
                             </li>
 
 

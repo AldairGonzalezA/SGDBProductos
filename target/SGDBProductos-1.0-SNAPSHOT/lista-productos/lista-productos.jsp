@@ -26,13 +26,13 @@
                     <div class="offcanvas-body">
                         <ul class="navbar-nav justify-content-end flex-grow-1 pe-3">
                             <li class="nav-item">
-                                <a class="nav-link" aria-current="page" href="../index.jsp">Inicio</a>
+                                <a class="nav-link" aria-current="page" href="./index.jsp">Inicio</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link"  aria-current="page" href="../formulario-productos/formulario-productos.jsp">Formulario de Productos</a>
+                                <a class="nav-link"  aria-current="page" href="./formulario-productos/formulario-productos.jsp">Formulario de Productos</a>
                             </li>
                             <li class="nav-item">
-                                <a class="nav-link active"  aria-current="page" href="lista-productos.jsp">Lista de Productos</a>
+                                <a class="nav-link active"  aria-current="page" href="/ProductoServlet">Lista de Productos</a>
                             </li>
 
 
